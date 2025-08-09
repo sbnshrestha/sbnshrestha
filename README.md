@@ -1,11 +1,11 @@
 ### Namaster World !!!
-I am a software developer based in Sydney, Australia.
+- I am a software developer based in Sydney, Australia.
 - Currently Working as a Senior Software Developer at MFA Motorways in Sydney, Australia.
 - In my free time, I enrol onto Microskill and Microcrendeltial courses to sharpen my skills on software development and AI to keep up-to-date with the emerging technologies.
 
 ## Connect with me
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin" target="_blank" />](https://au.linkedin.com/in/sbnshrestha)
-[<img align="left" alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"/>](https://sbnshrestha.com.np/)
+[<img align="left" alt="website" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logoColor=white" target="_blank"/>](https://sbnshrestha.com.np/)
 <br>
 
 ## Expertise
